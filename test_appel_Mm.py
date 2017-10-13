@@ -7,7 +7,6 @@ import time
 import pyqtgraph as pg
 import pylab as plt
 import datetime
-import lavu_utils as utils
 import signal
 import pyqtgraph.multiprocess as mp
 

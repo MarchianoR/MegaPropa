@@ -1,5 +1,5 @@
 import sys
-sys.path.append('../mm')
+sys.path.append('./mm')
 import megaSysteme_128 as mega
 import numpy as np
 import threading
